@@ -5,6 +5,26 @@
 </head>
 
 <body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1005758642833533',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
 
   <% include ../partials/nav.ejs %>
 
@@ -12,10 +32,25 @@
   <div class="container">
     <h1>Привет!</h1>
     <p>Это пример бота для Facebook Messanger</p>
+<div class="fb-send-to-messenger" 
+  messenger_app_id="1005758642833533" 
+  page_id="483332995195420" 
+  data-ref="HELLO" 
+  color="blue" 
+  size="xlarge"></div>
+
+<div class="fb-messengermessageus" 
+	messenger_app_id="1005758642833533" 
+  	page_id="483332995195420" 
+    color="blue"
+  	size="xlarge" >
+ </div>
 
 
   </div>
 </div>
+
+
 
 
 

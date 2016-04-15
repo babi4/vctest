@@ -33,5 +33,5 @@ curl -X POST -H "Content-Type: application/json" -d '{
       }
     }
   ]
-}' "https://graph.facebook.com/v2.6/483332995195420/thread_settings?access_token=CAAOSu26iyH0BAMW1oRnoelPH2zlNetAldDxZBIBrHaLnatOsA32WvYaeaBMZAjV7wmN9Oo8o4C1bK21JHXzDy9UKu2SL9mjZAgwNWvl5PMK3c3qzpSGj1vtOnMoyVT3N2V4LwhZCS94KGov2QYfcHNG761yZCmZAe4F6Qtq9Jz1xZBPJ6s4yRn7ZAp7pKvg1AV1nzvMbJKQOBQZDZDD"
+}' "https://graph.facebook.com/v2.6/483332995195420/thread_settings?access_token=CAAOSu26iyH0BAMW1oRnoelPH2zlNetAldDxZBIBrHaLnatOsA32WvYaeaBMZAjV7wmN9Oo8o4C1bK21JHXzDy9UKu2SL9mjZAgwNWvl5PMK3c3qzpSGj1vtOnMoyVT3N2V4LwhZCS94KGov2QYfcHNG761yZCmZAe4F6Qtq9Jz1xZBPJ6s4yRn7ZAp7pKvg1AV1nzvMbJKQOBQZDZD"
 
