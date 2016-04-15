@@ -9,8 +9,8 @@ var express = require('express');
 var request = require('superagent');
 var bodyParser = require('body-parser');
 
-var pageToken = 'CAAJALMpLGkQBAGjETZCnU7pnZCfx2ZCEY2s4eV26eW8EtZANFjpCsAbF38ehZAtfkbkOOWOr6PpML2Hsq0gBsQynv2WS8PIPT9pIJZCYF7n7g9AZBmbeMydViR611hMfnfATtaLXzhdUNDKim7HW2IxRp5Dk6ZC09S2Pz8TeLfznE8TZBz83qHXZC68mZANN0pMngbh18csgEU0agZDZD';
-var verifyToken = 'HELLO';
+var pageToken = 'CAAOSu26iyH0BAMW1oRnoelPH2zlNetAldDxZBIBrHaLnatOsA32WvYaeaBMZAjV7wmN9Oo8o4C1bK21JHXzDy9UKu2SL9mjZAgwNWvl5PMK3c3qzpSGj1vtOnMoyVT3N2V4LwhZCS94KGov2QYfcHNG761yZCmZAe4F6Qtq9Jz1xZBPJ6s4yRn7ZAp7pKvg1AV1nzvMbJKQOBQZDZD';
+var verifyToken = 'HELLO-VC-TESTERS';
 
 var app = express();
 
