@@ -1,7 +1,7 @@
 {
   "name": "vctest",
   "version": "0.0.1",
-  "description": "Template for FB Messagner bots",
+  "description": "Template for FB Messenger bots",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -29,7 +29,7 @@
   "keywords": [
     "vc",
     "fb",
-    "messanger"
+    "messenger"
   ],
   "license": "MIT"
 }

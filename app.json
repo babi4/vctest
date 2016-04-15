@@ -1,8 +1,8 @@
 {
-  "name": "FB Messagner Platform Getting Started",
-  "description": "Template for FB Messagner bots",
+  "name": "FB Messenger Platform Getting Started",
+  "description": "Template for FB Messenger bots",
   "repository": "https://github.com/babi4/vctest",
   "logo": "",
-  "keywords": ["vctest", "fb", "Messagner"],
+  "keywords": ["vctest", "fb", "Messenger"],
   "image": ""
 }
